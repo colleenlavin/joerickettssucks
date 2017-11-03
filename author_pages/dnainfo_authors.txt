@@ -10,7 +10,7 @@ http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about
 http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about-us/our-team/editorial-team/ben-fractenberg.rss
 http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about-us/our-team/editorial-team/allegra-hobbs.rss
 http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about-us/our-team/editorial-team/gwynne-hogan.rss
-http://web.archive.org/web/20170901130155/https://www.dnainfo.com/about-us/our-team/editorial-team/katie-honan.rss
+http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about-us/our-team/editorial-team/katie-honan.rss
 http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about-us/our-team/editorial-team/noah-hurowitz.rss
 http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about-us/our-team/editorial-team/trevor-kapp.rss
 http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about-us/our-team/editorial-team/ewa-kern-jedrychowska.rss
@@ -28,11 +28,11 @@ http://web.archive.org/web/20170901130155/https://www.dnainfo.com/new-york/about
 
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/shamus-toomey.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/jen-sabella.rss
-http://web.archive.org/web/20170917012325/https://www.dnainfo.com/about-us/our-team/editorial-team/andrew-herrmann.rss
+http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/andrew-herrmann.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/dave-newbart.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/john-obrien.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/stephanie-lulay.rss
-http://web.archive.org/web/20170917012325/https://www.dnainfo.com/about-us/our-team//angela-myers.rss
+http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team//angela-myers.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/tanveer-ali.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/kelly-bauer.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/mina-bloom.rss
@@ -47,10 +47,10 @@ http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/david-matthews.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/josh-mcghee.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/evan-f-moore.rss
-http://web.archive.org/web/20170917012325/https://www.dnainfo.com/about-us/our-team/editorial-team/alex-nitkin.rss
+http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/alex-nitkin.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/janet-rausa-fuller.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/linze-rice.rss
-http://web.archive.org/web/20170917012325/https://www.dnainfo.com/about-us/our-team/editorial-team/patrick-tufano.rss
+http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/patrick-tufano.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/tatiana-walk-morris.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/joe-ward.rss
 http://web.archive.org/web/20170917012325/https://www.dnainfo.com/chicago/about-us/our-team/editorial-team/andrea-v-watson.rss
